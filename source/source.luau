@@ -20,7 +20,7 @@ local DefaultConfig = {
 		Primary = Enum.Font.RobotoMono,
 		Second = Enum.Font.RobotoMono
 	},
-	AccentColor = Color3.fromRGB(255, 94, 97),
+	AccentColor = Color3.fromRGB(170, 0, 255),
 };
 
 local LibraryConfig = _G.SealzConfig or Args[1] or DefaultConfig;
